@@ -1,1 +1,1 @@
-#Simulador de inventario para cualquier empresa  
+# Simulador de inventario para cualquier empresa  
